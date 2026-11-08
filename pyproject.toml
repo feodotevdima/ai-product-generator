@@ -1,0 +1,12 @@
+[project]
+name = "ai-product-generator"
+version = "1.0.0"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi==0.162.0",
+    "uvicorn==0.54.0",
+    "openai==3.44.0",
+    "pydantic==2.14.2",
+    "pydantic-settings==2.16.2",
+    "python-dotenv==1.2.4",
+]

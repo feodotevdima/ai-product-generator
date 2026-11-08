@@ -1,0 +1,21 @@
+{
+  "name": "E40S6-5000-3-N-5",
+  "manufacturer": "Autonics",
+  "description": "Энкодер инкрементальный с выступающим валом диаметром 6 мм (диаметр корпуса 40 мм)",
+  "specs": {
+    "Диаметр вала": "6 мм",
+    "Диаметр корпуса": "40 мм"
+  },
+  "identifiers": {
+    "Артикул": "A2500001275",
+    "Код товара": "123514",
+    "Код производителя": "A2500001275"
+  },
+  "commercial_data": {
+    "price": 19470,
+    "currency": "RUR",
+    "available": true
+  },
+  "url": "https://www.souz-pribor.ru/product/e40s6/",
+  "picture": "https://www.souz-pribor.ru/upload/iblock/94b/E40S6_27_08_20_1.png"
+}
